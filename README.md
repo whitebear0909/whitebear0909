@@ -11,11 +11,13 @@
 </p>
 
 <h4 align="left">Languages and Tools:</h4>
-<p align="left"> 
+<p align="center"> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="200" height="200"/> </a> 
-  <a href="https://vuejs.org/" target="_blank"> <img src="https://camo.githubusercontent.com/a40a57becbe68bc3c482bdf1f209c8b091ee63f58173117037ac6aa5f96d4a72/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f7675656a732d6f726967696e616c2d776f72646d61726b2e737667" alt="vue" width="200" height="200"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="200" height="200"/> </a> 
-  <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
+  <a href="https://vuejs.org/" target="_blank"> <img src="https://camo.githubusercontent.com/a40a57becbe68bc3c482bdf1f209c8b091ee63f58173117037ac6aa5f96d4a72/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f7675656a732d6f726967696e616c2d776f72646d61726b2e737667" alt="vue" width="200" height="200"/> </a>
+</p>
+<p align="center">
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="200" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
