@@ -11,7 +11,8 @@
 </p>
 
 <h4 align="left">Languages and Tools:</h4>
-<p align="center"> 
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://laravel.com/img/logomark.min.svg" alt="react" width="200" height="200"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="200" height="200"/> </a> 
   <a href="https://vuejs.org/" target="_blank"> <img src="https://camo.githubusercontent.com/a40a57becbe68bc3c482bdf1f209c8b091ee63f58173117037ac6aa5f96d4a72/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f7675656a732d6f726967696e616c2d776f72646d61726b2e737667" alt="vue" width="200" height="200"/> </a>
 </p>
