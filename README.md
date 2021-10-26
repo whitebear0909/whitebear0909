@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏼, I'm Borislav</h1>
 <h4 align="center">Full Stack Developer with 6+ years of hands-on experience developing mean-stack and mern-stack web site and specialized in developing effective single app homepages that works across all platforms and browsers and building pleasant user interfaces. Having much experience in React Native. Especially good at developing Laravel + vue.js and Laravel + React projects.</h4>
 
-🌱 I’m currently working on **React, Vue**
+🌱 I’m currently working on **Laravel, React, Vue**
 
 📫 How to reach me **boris.whitebear0909@gmail.com**
 
