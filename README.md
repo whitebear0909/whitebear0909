@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋🏼, I'm Burcu</h1>
+<h1 align="center">Hi 👋🏼, I'm Borislav</h1>
 <h4 align="center">I am a front-end developer based in Istanbul. I have 1.5 years of professional experience and work for various teams and projects. </h4>
 
 🌱 I’m currently working on **React, Vue**
