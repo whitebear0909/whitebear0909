@@ -3,7 +3,7 @@
 
 🌱 I’m currently working on **Laravel, React, Vue**
 
-📫 How to reach me **boris.whitebear0909@gmail.com**
+📫 How to reach me **vuk.matijevic0909@gmail.com**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
