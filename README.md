@@ -3,13 +3,6 @@
 
 🌱 I’m currently working on **Laravel, React, Vue**
 
-📫 How to reach me **vuk.matijevic0909@gmail.com**
-
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="https://www.linkedin.com/in/vuk-matijevic-093aa5234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/burcu-karagoz/" height="30" width="40" /></a>
-</p>
-
 <h4 align="left">Languages and Tools:</h4>
 <p align="center">
   <a href="https://reactjs.org/" target="_blank"> <img src="https://laravel.com/img/logomark.min.svg" alt="react" width="200" height="200"/> </a>
